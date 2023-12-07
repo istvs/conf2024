@@ -1,6 +1,7 @@
 # Table of contents
 
 * [20th International and 12th Asia-Pacific Regional Conference of the ISTVS](README.md)
+* [Contact](contact.md)
 
 ## program
 
@@ -17,7 +18,6 @@
 * [Location](conference/location.md)
 * [Technical tour](conference/technical-tour.md)
 * [Statement on Publication Ethics and Malpractice](conference/publication-ethics.md)
-* [Contact](conference/contact.md)
 
 ## Submissions
 
