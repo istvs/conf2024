@@ -39,6 +39,10 @@ The intention of the organizers is to create a friendly atmosphere and comfortab
 _Conference chair ::_ [_yamakawa@nda.ac.jp_](mailto:yamakawa@nda.ac.jp)\
 [Automotive Engineering Laboratory | National Defense Academy](https://www.mod.go.jp/nda/english/)
 
+<figure><img src=".gitbook/assets/mount-fuji-1225931_1920.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/HdXLhbPIFOCdy3rokbWAYQDizPu0JVHE.jpeg" alt=""><figcaption></figcaption></figure>
+
 <div>
 
 <figure><img src=".gitbook/assets/Fig6_edit.jpeg" alt=""><figcaption></figcaption></figure>
