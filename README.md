@@ -24,18 +24,18 @@ Both representatives of science in the field of mechanical engineering, vehicles
 
 </div>
 
-The intention of the organizers is to create a friendly atmosphere and comfortable conditions for holding plenary sessions, focusing on the following issues:
+The intention of the organizers is to create a friendly atmosphere and comfortable conditions for holding plenary sessions. The conference includes the following thematic tracks:
 
-* soil and other deformable traction substrates including Martian and lunar regolith, snow, moschus, etc., mechanical characterization for advanced field mobility modeling as well as for minimizing the effects of soil compaction and erosion, with particular emphasis on the impact of weather factors;
-* driving systems of vehicles and machines, including innovative concepts of tires, wheels, and tracks for energy-saving traction;
-* propulsion systems, engines, mechatronic systems, and vetronics to meet the high requirements of individual customers as well as increasingly stringent environmental protection standards;
-* issues of regolith research of celestial bodies, the moon, Mars, asteroids for practical solutions in the field of mobility, autonomous, and robotic systems;
-* metrology in terramechanics, in particular new solutions for remote, autonomous measurements, using AI and maintenance-free devices and systems;
-* off-road vehicle dynamics;
-* manned and unmanned vehicles including off-road robots;
-* issues in the field of terramechanics and vehicle-terrain systems not mentioned above.
+* soil mechanical characterization
+* off-road mobility modeling
+* soil compaction
+* driving systems of off-road vehicles and machines\
+  Innovative concepts of tires, wheels, and tracks
+* propulsion systems and engines
+* vetronics, Autonomous and robotic systems
+* metrology in terramechanics
 
-**Junya Yamakawa**\
+**Prof. Junya Yamakawa**\
 _Conference chair ::_ [_yamakawa@nda.ac.jp_](mailto:yamakawa@nda.ac.jp)\
 [Automotive Engineering Laboratory | National Defense Academy](https://www.mod.go.jp/nda/english/)
 
@@ -59,8 +59,22 @@ _Conference chair ::_ [_yamakawa@nda.ac.jp_](mailto:yamakawa@nda.ac.jp)\
 
 ## Key dates
 
-| Date               | Events     |
-| ------------------ | ---------- |
-| 28-31 October 2024 | Conference |
+| Date                | Events                               |
+| ------------------- | ------------------------------------ |
+| February 15, 2024   | Abstract submission opens            |
+| March 15, 2024      | Abstract submission ends             |
+| March 31, 2024      | Notification of acceptance           |
+| May 31, 2024        | Full paper submission                |
+| June 30, 2024       | Peer review process                  |
+| July 31, 2024       | <p>Final paper </p><p>submission</p> |
+|                     |                                      |
+| June 10, 2024       | Registration opens                   |
+| July 31, 2024       | Early registration closes            |
+|                     |                                      |
+| July 1, 2024        | Preliminary program published        |
+| August 1, 2024      | Detailed program published           |
+| September 13, 2024  | Final program published              |
+|                     |                                      |
+| October 28-31, 2024 | Conference                           |
 
 <figure><img src=".gitbook/assets/2024 YOKOHAMA  - Twitter.svg" alt=""><figcaption></figcaption></figure>
