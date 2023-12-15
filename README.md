@@ -29,10 +29,11 @@ The intention of the organizers is to create a friendly atmosphere and comfortab
 * soil mechanical characterization
 * off-road mobility modeling
 * soil compaction
-* driving systems of off-road vehicles and machines\
-  Innovative concepts of tires, wheels, and tracks
+* driving systems of off-road vehicles and machines
+* innovative concepts of tires, wheels, and tracks
 * propulsion systems and engines
-* vetronics, Autonomous and robotic systems
+* vetronics
+* autonomous and robotic systems
 * metrology in terramechanics
 
 **Prof. Junya Yamakawa**\
