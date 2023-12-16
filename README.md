@@ -38,7 +38,7 @@ The intention of the organizers is to create a friendly atmosphere and comfortab
 
 **Prof. Junya Yamakawa**\
 _Conference chair ::_ [_yamakawa@nda.ac.jp_](mailto:yamakawa@nda.ac.jp)\
-[Automotive Engineering Laboratory | National Defense Academy](https://www.mod.go.jp/nda/english/)
+[Automotive Engineering Laboratory | National Defense Academy](http://www.nda.ac.jp/cc/mech/en/automotive-engineering.html#faculty)
 
 <figure><img src=".gitbook/assets/mount-fuji-1225931_1920.jpg" alt=""><figcaption></figcaption></figure>
 
