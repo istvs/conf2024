@@ -6,21 +6,23 @@ coverY: 0
 
 # 20th International and 12th Asia-Pacific Regional Conference of the ISTVS
 
+<figure><img src=".gitbook/assets/mount-fuji-1225931_1920.jpg" alt=""><figcaption></figcaption></figure>
+
 The conference is an opportunity to present and disseminate the latest scientific and technological achievements in the field of vehicle-terrain systems.
 
 Both representatives of science in the field of mechanical engineering, vehicles and machines, mechatronics and automation, soil science, agriculture and environmental engineering, as well as professionals from industry, business environment and government agencies for whom the issues discussed at the conference are an important merit are invited to participate. The organizers also count on the participation of students from under- and postgraduate courses.
 
 <div>
 
-<figure><img src=".gitbook/assets/F1030003.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4WD_test.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/F1040023.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/road_roller.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/F1030008.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/crawler_drone.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -40,23 +42,19 @@ The intention of the organizers is to create a friendly atmosphere and comfortab
 _Conference chair ::_ [_yamakawa@nda.ac.jp_](mailto:yamakawa@nda.ac.jp)\
 [Automotive Engineering Laboratory | National Defense Academy](http://www.nda.ac.jp/cc/mech/en/automotive-engineering.html#faculty)
 
-<figure><img src=".gitbook/assets/mount-fuji-1225931_1920.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/HdXLhbPIFOCdy3rokbWAYQDizPu0JVHE.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/rover.jpg" alt=""><figcaption></figcaption></figure>
 
 <div>
 
-<figure><img src=".gitbook/assets/Fig6_edit.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/excavator.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/F1020008.JPG" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/F1020020.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/wheel_test.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
+
+<figure><img src=".gitbook/assets/HdXLhbPIFOCdy3rokbWAYQDizPu0JVHE.jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Key dates
 
