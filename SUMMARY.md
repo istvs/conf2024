@@ -1,6 +1,6 @@
 # Table of contents
 
-* [20th International and 12th Asia-Pacific Regional Conference of the ISTVS](README.md)
+* [21st International and 12th Asia-Pacific Regional Conference of the ISTVS](README.md)
 * [Contact](contact.md)
 
 ## Quick links
