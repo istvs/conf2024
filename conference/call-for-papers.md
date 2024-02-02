@@ -22,6 +22,10 @@ Abstract acceptance will be notified to the corresponding author by **March 31**
 
 All accepted submissions of either abstract-only or full-paper type will be included in the conference program and will be published in the conference proceedings. **Only full papers** will be assigned a **DOI** and will have a permanent individual page on the conference website; so, if your abstract is accepted, we strongly encourage you to submit a full paper to maximize the visibility of your work.
 
+## Key dates
+
+Key dates are listed [here](../#key-dates).
+
 ## Technical tracks
 
 The conference includes the following thematic tracks:
