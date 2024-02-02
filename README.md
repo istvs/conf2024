@@ -42,8 +42,9 @@ The intention of the organizers is to create a friendly atmosphere and comfortab
 _Conference co-chair ::_ [_yamakawa@nda.ac.jp_](mailto:yamakawa@nda.ac.jp)\
 [Automotive Engineering Laboratory | National Defense Academy](http://www.nda.ac.jp/cc/mech/en/automotive-engineering.html#faculty)
 
-**Taizo Kobayashi**\
+**Dr. Taizo Kobayashi**\
 _Conference co-chair ::_ [_kobat@fc.ritsumei.ac.jp_](mailto:kobat@fc.ritsumei.ac.jp)\
+[Dept. of Civil and Environmental Engineering | Ritsumeikan University](https://en.ritsumei.ac.jp/)\
 
 
 **Organizing committee** | Ryosuke Eto, Takeshi Hashimoto, Kojiro Iizuka, Genya Ishigami, Shinichiro Miyai, Shingo Ozaki
