@@ -47,8 +47,6 @@ _Conference co-chair ::_ [_kobat@fc.ritsumei.ac.jp_](mailto:kobat@fc.ritsumei.ac
 [Dept. of Civil and Environmental Engineering | Ritsumeikan University](https://en.ritsumei.ac.jp/)\
 
 
-<figure><img src=".gitbook/assets/rover.jpg" alt=""><figcaption></figcaption></figure>
-
 <div>
 
 <figure><img src=".gitbook/assets/excavator.jpeg" alt="" width="375"><figcaption></figcaption></figure>
@@ -58,8 +56,6 @@ _Conference co-chair ::_ [_kobat@fc.ritsumei.ac.jp_](mailto:kobat@fc.ritsumei.ac
 <figure><img src=".gitbook/assets/wheel_test.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
-
-<figure><img src=".gitbook/assets/HdXLhbPIFOCdy3rokbWAYQDizPu0JVHE.jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Key dates
 
@@ -80,5 +76,9 @@ _Conference co-chair ::_ [_kobat@fc.ritsumei.ac.jp_](mailto:kobat@fc.ritsumei.ac
 | September 13, 2024  | Final program published                              |
 |                     |                                                      |
 | October 28-31, 2024 | Conference                                           |
+
+<figure><img src=".gitbook/assets/rover.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/HdXLhbPIFOCdy3rokbWAYQDizPu0JVHE.jpeg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/2024 YOKOHAMA  - Twitter.svg" alt=""><figcaption></figcaption></figure>
