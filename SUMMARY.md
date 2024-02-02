@@ -7,3 +7,7 @@
 
 * [ISTVS](http://www.istvs.org)
 * [Journal of Terramechanics](https://www.sciencedirect.com/journal/journal-of-terramechanics)
+
+## Conference
+
+* [Call for Papers](conference/call-for-papers.md)
