@@ -59,7 +59,7 @@ _Conference co-chair ::_ [_kobat@fc.ritsumei.ac.jp_](mailto:kobat@fc.ritsumei.ac
 
 ## Key dates
 
-| Date                | Events                                               |
+| Date                | Event                                                |
 | ------------------- | ---------------------------------------------------- |
 | February 15, 2024   | Abstract submission opens                            |
 | March 15, 2024      | Abstract submission closes                           |
