@@ -81,4 +81,4 @@ _Conference co-chair ::_ [_kobat@fc.ritsumei.ac.jp_](mailto:kobat@fc.ritsumei.ac
 
 <figure><img src=".gitbook/assets/HdXLhbPIFOCdy3rokbWAYQDizPu0JVHE.jpeg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/2024 YOKOHAMA  - Twitter.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2024 YOKOHAMA - Twitter - CORRECT.png" alt=""><figcaption></figcaption></figure>
