@@ -74,7 +74,7 @@ _Conference co-chair ::_ [_kobat@fc.ritsumei.ac.jp_](mailto:kobat@fc.ritsumei.ac
 | July 31, 2024       | Final paper submission                               |
 |                     |                                                      |
 | June 10, 2024       | Registration opens                                   |
-| July 31, 2024       | Early registration closes                            |
+| July 31, 2024       | Early bird registration closes                       |
 |                     |                                                      |
 | July 1, 2024        | Preliminary program published                        |
 | August 1, 2024      | Detailed program published                           |
