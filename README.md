@@ -4,7 +4,7 @@ cover: .gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
 ---
 
-# 20th International and 12th Asia-Pacific Regional Conference of the ISTVS
+# 21st International and 12th Asia-Pacific Regional Conference of the ISTVS
 
 <figure><img src=".gitbook/assets/mount-fuji-1225931_1920.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -64,22 +64,22 @@ _Conference co-chair ::_ [_kobat@fc.ritsumei.ac.jp_](mailto:kobat@fc.ritsumei.ac
 
 ## Key dates
 
-| Date                | Events                               |
-| ------------------- | ------------------------------------ |
-| February 15, 2024   | Abstract submission opens            |
-| March 15, 2024      | Abstract submission ends             |
-| March 31, 2024      | Notification of acceptance           |
-| May 31, 2024        | Full paper submission                |
-| June 30, 2024       | Peer review process                  |
-| July 31, 2024       | <p>Final paper </p><p>submission</p> |
-|                     |                                      |
-| June 10, 2024       | Registration opens                   |
-| July 31, 2024       | Early registration closes            |
-|                     |                                      |
-| July 1, 2024        | Preliminary program published        |
-| August 1, 2024      | Detailed program published           |
-| September 13, 2024  | Final program published              |
-|                     |                                      |
-| October 28-31, 2024 | Conference                           |
+| Date                | Events                                               |
+| ------------------- | ---------------------------------------------------- |
+| February 15, 2024   | Abstract submission opens                            |
+| March 15, 2024      | Abstract submission closes                           |
+| March 31, 2024      | Notification of acceptance/rejection sent to authors |
+| May 31, 2024        | Full paper submission                                |
+| June 30, 2024       | Notification of peer review result sent to authors   |
+| July 31, 2024       | Final paper submission                               |
+|                     |                                                      |
+| June 10, 2024       | Registration opens                                   |
+| July 31, 2024       | Early registration closes                            |
+|                     |                                                      |
+| July 1, 2024        | Preliminary program published                        |
+| August 1, 2024      | Detailed program published                           |
+| September 13, 2024  | Final program published                              |
+|                     |                                                      |
+| October 28-31, 2024 | Conference                                           |
 
 <figure><img src=".gitbook/assets/2024 YOKOHAMA  - Twitter.svg" alt=""><figcaption></figcaption></figure>
