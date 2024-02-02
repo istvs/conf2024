@@ -47,8 +47,6 @@ _Conference co-chair ::_ [_kobat@fc.ritsumei.ac.jp_](mailto:kobat@fc.ritsumei.ac
 [Dept. of Civil and Environmental Engineering | Ritsumeikan University](https://en.ritsumei.ac.jp/)\
 
 
-**Organizing committee** | Ryosuke Eto, Takeshi Hashimoto, Kojiro Iizuka, Genya Ishigami, Shinichiro Miyai, Shingo Ozaki
-
 <figure><img src=".gitbook/assets/rover.jpg" alt=""><figcaption></figcaption></figure>
 
 <div>
