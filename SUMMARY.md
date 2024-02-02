@@ -2,6 +2,7 @@
 
 * [21st International and 12th Asia-Pacific Regional Conference of the ISTVS](README.md)
 * [Contact](contact.md)
+* [Committee](committee.md)
 
 ## Conference
 
