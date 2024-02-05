@@ -78,7 +78,7 @@ Additional author resources:
 
 * guidelines for review rebuttal
 * copyright assignment form
-* presentation template, forms and templates will also be added to this page
+* presentation template
 
 will be added to this page as well, so keep an eye on it for updates.
 
