@@ -40,6 +40,10 @@ The conference includes the following thematic tracks:
 * autonomous and robotic systems
 * metrology in terramechanics
 
+## CFP poster
+
+You can view the Call for Papers poster [here](../cfp-poster.md).
+
 ## Submission platform
 
 As in previous years, the conference submission platform is [EasyChair](https://easychair.org/conferences/?conf=istvs2024). If you’ve participated in a recent ISTVS conference, you will be able to log in with your existing account. If you’re new to ISTVS conferences, use the _Create an account_ link on the login page to get started.\
