@@ -1,6 +1,6 @@
 # Table of contents
 
-* [21st International and 12th Asia-Pacific Regional Conference of the ISTVS](README.md)
+* [ISTVS2024 | 21st International and 12th Asia-Pacific Regional Conference of the ISTVS](README.md)
 * [Contact](contact.md)
 * [Committee](committee.md)
 * [CFP Poster](cfp-poster.md)

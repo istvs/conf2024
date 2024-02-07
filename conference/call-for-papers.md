@@ -1,12 +1,14 @@
 ---
-description: 21st International and 12th Asia-Pacific Regional Conference of the ISTVS
+description: >-
+  ISTVS2024 | 21st International and 12th Asia-Pacific Regional Conference of
+  the ISTVS
 cover: ../.gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
 ---
 
 # Call for Papers
 
-The _21st International and 12th Asia-Pacific Regional Conference of the ISTVS_ welcomes original and previously unpublished research and review papers describing results of research which are relevant to the conference topics and to terrain-vehicle systems.
+_ISTVS2024_, the _21st International and 12th Asia-Pacific Regional Conference of the ISTVS_ welcomes original and previously unpublished research and review papers describing results of research which are relevant to the conference topics and to terrain-vehicle systems.
 
 * Authors wishing to make a submission are requested to submit an abstract by **March 15**, 2024.
 * Submission opens on **February 14**, 2024.
