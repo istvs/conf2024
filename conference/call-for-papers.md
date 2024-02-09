@@ -22,7 +22,7 @@ Abstract acceptance will be notified to the corresponding author by **March 31**
 
 **Full paper submissions** // After abstract acceptance, authors submitting a full paper must make their submission by **May 31**, 2024. Each full paper will be subject to peer review by reviewers selected by the conference Scientific Committee. Each paper will be either accepted, accepted with revisions or rejected; the decision will be notified by **June 30**, 2024. If a revision is requested, the revised paper must be submitted by **July 31**, 2024.
 
-All accepted submissions of either abstract-only or full-paper type will be included in the conference program and will be published in the conference proceedings. **Only full papers** will be assigned a **DOI** and will have a permanent individual page on the conference website; so, if your abstract is accepted, we strongly encourage you to submit a full paper to maximize the visibility of your work.
+All accepted submissions of either abstract-only or full-paper type will be included in the conference program and will be published in the conference proceedings, on the condition that **at least one author attend the conference** to present the work. **Only full papers** will be assigned a **DOI** and will have a permanent individual page on the conference website; so, if your abstract is accepted, we strongly encourage you to submit a full paper to maximize the visibility of your work.
 
 ## Key dates
 
