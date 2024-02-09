@@ -11,7 +11,7 @@ coverY: 0
 _ISTVS2024_, the _21st International and 12th Asia-Pacific Regional Conference of the ISTVS_ welcomes original and previously unpublished research and review papers describing results of research which are relevant to the conference topics and to terrain-vehicle systems.
 
 * Authors wishing to make a submission are requested to submit an abstract by **March 15**, 2024.
-* Submission opens on **February 14**, 2024.
+* Submission opens on **February 15**, 2024.
 * Abstracts are requested to be under 1800 characters and must emphasize the objectives and results.
 * Authors may choose between the following two types of submissions:\
   **full paper** and **abstract-only**.
