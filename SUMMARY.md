@@ -1,15 +1,15 @@
 # Table of contents
 
 * [ISTVS2024 | 21st International and 12th Asia-Pacific Regional Conference of the ISTVS](README.md)
-* [Contact](contact.md)
 * [Committee](committee.md)
 * [CFP Poster](cfp-poster.md)
 
 ## Conference
 
 * [Call for Papers](conference/call-for-papers.md)
+* [Contact](conference/contact.md)
 
-## Quick links
+## Society <a href="#links" id="links"></a>
 
 * [ISTVS](http://www.istvs.org)
 * [Journal of Terramechanics](https://www.sciencedirect.com/journal/journal-of-terramechanics)
