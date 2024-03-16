@@ -71,8 +71,13 @@ Submission is done directly on the [EasyChair](https://easychair.org/conferences
 
 ### Full paper
 
-Papers must be submitted in _Microsoft Word_ format and must **comply with the conference template**.\
-The template will be available on this page by **March 15**, 2024.
+Papers must be submitted in _Microsoft Word_ format and must **comply with the conference template**.
+
+{% file src="../.gitbook/assets/ISTVS2024_Paper_Template.zip" %}
+ISTVS2024 paper template
+{% endfile %}
+
+The zip archive provided includes a **reference PDF**, in case the _Word_ document breaks when opened locally.
 
 ### Poster
 
