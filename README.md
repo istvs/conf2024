@@ -59,26 +59,26 @@ _Conference co-chair ::_ [_kobat@fc.ritsumei.ac.jp_](mailto:kobat@fc.ritsumei.ac
 
 ## Key dates
 
-| Date                | Event                                                |
-| ------------------- | ---------------------------------------------------- |
-| **SUBMISSIONS**     |                                                      |
-| February 15, 2024   | Abstract submission opens                            |
-| March 15, 2024      | Abstract submission closes                           |
-| March 31, 2024      | Notification of acceptance/rejection sent to authors |
-| May 31, 2024        | Full paper submission                                |
-| June 30, 2024       | Notification of peer review result sent to authors   |
-| July 31, 2024       | Final paper submission                               |
-|                     |                                                      |
-| **REGISTRATION**    |                                                      |
-| June 10, 2024       | Registration opens                                   |
-| July 31, 2024       | Early bird registration closes                       |
-|                     |                                                      |
-| **PROGRAM**         |                                                      |
-| July 1, 2024        | Preliminary program published                        |
-| August 1, 2024      | Detailed program published                           |
-| September 13, 2024  | Final program published                              |
-|                     |                                                      |
-| October 28-31, 2024 | Conference                                           |
+| Date                                               | Event                                                |
+| -------------------------------------------------- | ---------------------------------------------------- |
+| **SUBMISSIONS**                                    |                                                      |
+| February 15, 2024                                  | Abstract submission opens                            |
+| <p>March 23, 2024<br><del>March 15, 2024</del></p> | Abstract submission closes                           |
+| <p>April 7, 2024<br><del>March 31, 2024</del></p>  | Notification of acceptance/rejection sent to authors |
+| May 31, 2024                                       | Full paper submission                                |
+| June 30, 2024                                      | Notification of peer review result sent to authors   |
+| July 31, 2024                                      | Final paper submission                               |
+|                                                    |                                                      |
+| **REGISTRATION**                                   |                                                      |
+| June 10, 2024                                      | Registration opens                                   |
+| July 31, 2024                                      | Early bird registration closes                       |
+|                                                    |                                                      |
+| **PROGRAM**                                        |                                                      |
+| July 1, 2024                                       | Preliminary program published                        |
+| August 1, 2024                                     | Detailed program published                           |
+| September 13, 2024                                 | Final program published                              |
+|                                                    |                                                      |
+| October 28-31, 2024                                | Conference                                           |
 
 <figure><img src=".gitbook/assets/rover.jpg" alt=""><figcaption></figcaption></figure>
 
