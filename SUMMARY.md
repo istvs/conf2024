@@ -7,6 +7,7 @@
 ## Conference
 
 * [Call for Papers](conference/call-for-papers.md)
+* [Location and Travel](conference/location-and-travel.md)
 * [Contact](conference/contact.md)
 
 ## Society <a href="#links" id="links"></a>
