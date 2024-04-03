@@ -39,7 +39,7 @@ The intention of the organizers is to create a friendly atmosphere and comfortab
 * metrology in terramechanics
 
 **Prof. Junya Yamakawa**\
-_Conference co-chair ::_ [_yamakawa@nda.ac.jp_](mailto:yamakawa@nda.ac.jp)\
+_Conference chair ::_ [_yamakawa@nda.ac.jp_](mailto:yamakawa@nda.ac.jp)\
 [Automotive Engineering Laboratory | National Defense Academy](http://www.nda.ac.jp/cc/mech/en/automotive-engineering.html#faculty)
 
 **Prof. Taizo Kobayashi**\
