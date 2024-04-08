@@ -12,9 +12,9 @@ coverY: 0
 
 Junya Yamakawa, _chair_\
 Taizo Kobayashi, _co-chair_\
+Genya Ishigami, _co-chair_\
 Ryosuke Eto\
 Takeshi Hashimoto\
 Kojiro Iizuka\
-Genya Ishigami\
 Shinichiro Miyai\
 Shingo Ozaki

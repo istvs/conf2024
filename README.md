@@ -44,8 +44,11 @@ _Conference chair ::_ [_yamakawa@nda.ac.jp_](mailto:yamakawa@nda.ac.jp)\
 
 **Prof. Taizo Kobayashi**\
 _Conference co-chair ::_ [_kobat@fc.ritsumei.ac.jp_](mailto:kobat@fc.ritsumei.ac.jp)\
-[Dept. of Civil and Environmental Engineering | Ritsumeikan University](https://en.ritsumei.ac.jp/gsse/academics/researchers/article.html/?id=86)\
+[Dept. of Civil and Environmental Engineering | Ritsumeikan University](https://en.ritsumei.ac.jp/gsse/academics/researchers/article.html/?id=86)
 
+**Prof. Genya Ishigami**\
+_Conference co-chair ::_ [_ishigami@mech.keio.ac.jp_](mailto:ishigami@mech.keio.ac.jp)\
+[Keio University](http://www.srg.mech.keio.ac.jp)
 
 <div>
 
