@@ -60,6 +60,20 @@ _Conference co-chair ::_ [_ishigami@mech.keio.ac.jp_](mailto:ishigami@mech.keio.
 
 </div>
 
+
+
+{% hint style="info" %}
+## Program overview
+
+**Monday, October 28** — BoD Meeting, Icebreaker Party&#x20;
+
+**Tuesday, October 29** — Opening Ceremony, Keynote Speech, Sessions, Banquet&#x20;
+
+**Wednesday, October 30** — Sessions, Poster Session, Closing Ceremony&#x20;
+
+**Thursday, October 31** — Technical Tour
+{% endhint %}
+
 ## Key dates
 
 | Date                                               | Event                                                |
