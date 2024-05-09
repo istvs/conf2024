@@ -11,6 +11,7 @@
 * [Location and Travel](conference/location-and-travel.md)
 * [Contact](conference/contact.md)
 * [Privacy](conference/privacy.md)
+* [Terms and Conditions](conference/terms-and-conditions.md)
 * [Notation based on the Specified Commercial Transactions Law](conference/notation-based-on-the-specified-commercial-transactions-law.md)
 
 ## Society <a href="#links" id="links"></a>
