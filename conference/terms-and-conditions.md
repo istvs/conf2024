@@ -14,7 +14,7 @@ Thank you for visiting the conference site for the 21st International and 12th A
 * International Society for Terrain-Vehicle Systems reserves the right to refuse or cancel orders at any time, including, but not limited to, orders placed for registrations listed at an incorrect price or containing any other incorrect information.
 
 **Returns and Refunds**\
-Refund and return policies are outlined in our [Notation based on the Specified Commercial Transactions Law.](notation-based-on-the-specified-commercial-transactions-law.md) Please review carefully before making registrations.
+Refund and return policies are outlined in our [Notation based on the Specified Commercial Transactions Law.](conditions\_of\_use.md) Please review carefully before making registrations.
 
 **Disclaimer of Liability**\
 International Society for Terrain-Vehicle Systems shall not be liable for any damages that result from the use of, or inability to use, the materials on our site or the performance of the products purchased through the site.

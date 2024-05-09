@@ -10,9 +10,9 @@
 * [Call for Papers](conference/call-for-papers.md)
 * [Location and Travel](conference/location-and-travel.md)
 * [Contact](conference/contact.md)
-* [Privacy](conference/privacy.md)
+* [Privacy policy](conference/privacy-policy.md)
 * [Terms and Conditions](conference/terms-and-conditions.md)
-* [Notation based on the Specified Commercial Transactions Law](conference/notation-based-on-the-specified-commercial-transactions-law.md)
+* [Notation based on the Specified Commercial Transactions Law](conference/conditions\_of\_use.md)
 
 ## Society <a href="#links" id="links"></a>
 
