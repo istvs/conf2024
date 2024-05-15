@@ -16,7 +16,7 @@ coverY: 0
 
 ### Early bird registration&#x20;
 
-Members :tickets: ¥70,000 JPY\
+Members :tickets: ¥70,000 JPY<br>
 Non-members :tickets: ¥85,000 JPY\
 Students :tickets: ¥25,000 JPY
 
