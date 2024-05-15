@@ -16,23 +16,20 @@ coverY: 0
 
 ### Early bird registration&#x20;
 
-:tickets: Members 70,000 yen&#x20;
-
-:tickets: Non-members 85,000 yen&#x20;
-
-:tickets: Students
+Members :tickets: ¥70,000 JPY\
+Non-members :tickets: ¥85,000 JPY\
+Students :tickets: ¥25,000 JPY
 
 ### Regular registration
 
-:tickets: Members 80,000 yen&#x20;
-
-:tickets: Non-members 95,000 yen
+Members :tickets: ¥80,000 JPY\
+Non-members :tickets: ¥95,000 JPY\
+Students :tickets: ¥30,000 JPY
 
 ### Accompanying persons
 
-:tickets: Icebreaker party 8,000 yen/person&#x20;
-
-:tickets: Reception 11,000 yen/person&#x20;
+Ice Breaker Party :tickets: ¥8,000 JPY\
+Reception :tickets: ¥11,000 JPY
 
 {% hint style="info" %}
 Technical tours are in planning and will be announced soon.
