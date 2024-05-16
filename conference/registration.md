@@ -9,22 +9,20 @@ coverY: 0
 # Registration
 
 {% hint style="info" %}
-2024-05-06 \
+2024-05-16\
 :tickets: Registration fees posted\
-:calendar\_spiral: Online registration opening later this week
+:calendar\_spiral: Online registration opening soon
 {% endhint %}
 
-### Early bird registration&#x20;
+### Early bird registration
 
-Members :tickets: ¥70,000 JPY<br>
-Non-members :tickets: ¥85,000 JPY\
-Students :tickets: ¥25,000 JPY
+Members :tickets: ¥70,000 JPY\
+Non-members :tickets: ¥85,000 JPY
 
 ### Regular registration
 
 Members :tickets: ¥80,000 JPY\
-Non-members :tickets: ¥95,000 JPY\
-Students :tickets: ¥30,000 JPY
+Non-members :tickets: ¥95,000 JPY
 
 ### Accompanying persons
 
