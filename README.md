@@ -76,26 +76,28 @@ _Conference co-chair ::_ [_ishigami@mech.keio.ac.jp_](mailto:ishigami@mech.keio.
 
 ## Key dates
 
-| Date                                               | Event                                                |
-| -------------------------------------------------- | ---------------------------------------------------- |
-| **SUBMISSIONS**                                    |                                                      |
-| February 15, 2024                                  | Abstract submission opens                            |
-| <p>March 23, 2024<br><del>March 15, 2024</del></p> | Abstract submission closes                           |
-| <p>April 7, 2024<br><del>March 31, 2024</del></p>  | Notification of acceptance/rejection sent to authors |
-| May 31, 2024                                       | Full paper submission                                |
-| June 30, 2024                                      | Notification of peer review result sent to authors   |
-| July 31, 2024                                      | Final paper submission                               |
-|                                                    |                                                      |
-| **REGISTRATION**                                   |                                                      |
-| June 10, 2024                                      | Registration opens                                   |
-| July 31, 2024                                      | Early bird registration closes                       |
-|                                                    |                                                      |
-| **PROGRAM**                                        |                                                      |
-| July 1, 2024                                       | Preliminary program published                        |
-| August 1, 2024                                     | Detailed program published                           |
-| September 13, 2024                                 | Final program published                              |
-|                                                    |                                                      |
-| October 28-31, 2024                                | Conference                                           |
+| Date                                                          | Event                                                |
+| ------------------------------------------------------------- | ---------------------------------------------------- |
+| **SUBMISSIONS**                                               |                                                      |
+| February 15, 2024                                             | Abstract submission opens                            |
+| <p>March 23, 2024<br><del>March 15, 2024</del></p>            | Abstract submission closes                           |
+| <p>April 7, 2024<br><del>March 31, 2024</del></p>             | Notification of acceptance/rejection sent to authors |
+| <p>June 10, 2024<br><del>May 31, 2024</del></p>               | Full paper submission                                |
+| <p>July 10, 2024</p><p><del>June 30, 2024</del></p>           | Notification of peer review result sent to authors   |
+| <p>August 10, 2024</p><p><del>July 31, 2024</del></p>         | Final paper submission                               |
+|                                                               |                                                      |
+| **REGISTRATION**                                              |                                                      |
+| June 10, 2024                                                 | Registration opens                                   |
+| <p>August 10, 2024</p><p><del>July 31, 2024</del></p>         | Early bird registration closes                       |
+|                                                               |                                                      |
+| **PROGRAM**                                                   |                                                      |
+| <p>July 10, 2024</p><p><del>July 1, 2024</del></p>            | Preliminary program published                        |
+| <p>August 10, 2024</p><p><del>August 1, 2024</del></p>        | Detailed program published                           |
+| <p>September 23, 2024</p><p><del>September 13, 2024</del></p> | Final program published                              |
+|                                                               |                                                      |
+| October 28-31, 2024                                           | Conference                                           |
+
+
 
 <figure><img src=".gitbook/assets/rover.jpg" alt=""><figcaption></figcaption></figure>
 
