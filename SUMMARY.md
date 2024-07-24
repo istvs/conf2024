@@ -6,10 +6,10 @@
 
 * [Registration](http://registration.istvs.org)
 * [Call for Papers](conference/call-for-papers.md)
-* [CFP Poster](conference/cfp-poster.md)
+* [CFP Poster](cfp-poster.md)
 * [Technical Tour](conference/technical-tour.md)
 * [Location and Travel](conference/location-and-travel.md)
-* [Committee](conference/committee.md)
+* [Committee](committee.md)
 * [Contact](conference/contact.md)
 * [Privacy policy](conference/privacy-policy.md)
 * [Terms and conditions](conference/terms-and-conditions.md)

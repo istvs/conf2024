@@ -6,6 +6,10 @@ coverY: 0
 
 # ISTVS2024 | 21st International and 12th Asia-Pacific Regional Conference of the ISTVS
 
+{% hint style="success" %}
+We are please to announce the location of the 2024 Technical Tour: Komatsu IoT Center. See [this page](conference/technical-tour.md) for details.
+{% endhint %}
+
 <figure><img src=".gitbook/assets/mount-fuji-1225931_1920.jpg" alt=""><figcaption></figcaption></figure>
 
 The conference is an opportunity to present and disseminate the latest scientific and technological achievements in the field of vehicle-terrain systems.
@@ -71,7 +75,7 @@ _Conference co-chair ::_ [_ishigami@mech.keio.ac.jp_](mailto:ishigami@mech.keio.
 
 **Wednesday, October 30** — Sessions, Poster Session, Closing Ceremony&#x20;
 
-**Thursday, October 31** — Technical Tour
+**Thursday, October 31** — Technical Tour at Komatsu IoT Center
 {% endhint %}
 
 ## Key dates
