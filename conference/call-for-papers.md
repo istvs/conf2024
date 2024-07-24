@@ -44,7 +44,7 @@ The conference includes the following thematic tracks:
 
 ## CFP poster
 
-You can view the Call for Papers poster [here](../cfp-poster.md).
+You can view the Call for Papers poster [here](cfp-poster.md).
 
 ## Submission platform
 
