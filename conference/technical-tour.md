@@ -16,4 +16,4 @@ Detail: \
 
 <figure><img src="../.gitbook/assets/CleanShot 2024-07-25 at 10.01.47@2x.png" alt=""><figcaption><p>Komatsu IoT Center — <a href="https://kcsj.komatsu/ict/smartconstruction/location">kcsj.komatsu/ict/smartconstruction/location</a></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Komatsu IoT Center.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Komatsu IoT Center.jpg" alt="" width="375"><figcaption></figcaption></figure>
