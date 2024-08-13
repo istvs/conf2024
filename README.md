@@ -7,7 +7,8 @@ coverY: 0
 # ISTVS2024 | 21st International and 12th Asia-Pacific Regional Conference of the ISTVS
 
 {% hint style="success" %}
-We are pleased to announce the location of the 2024 Technical Tour: Komatsu IoT Center. See [this page](conference/technical-tour.md) for details.
+We are pleased to announce the publication of 2024 Conference Program:\
+[https://www.easychair.org/smart-program/ISTVS2024/](https://www.easychair.org/smart-program/ISTVS2024/)
 {% endhint %}
 
 <figure><img src=".gitbook/assets/mount-fuji-1225931_1920.jpg" alt=""><figcaption></figcaption></figure>
