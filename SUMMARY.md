@@ -4,6 +4,7 @@
 
 ## Conference
 
+* [Program](conference/program.md)
 * [Registration](http://registration.istvs.org)
 * [Call for Papers](conference/call-for-papers.md)
 * [CFP Poster](cfp-poster.md)
