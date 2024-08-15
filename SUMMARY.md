@@ -6,7 +6,7 @@
 
 * [Program](conference/program/README.md)
   * [Authors](conference/program/authors.md)
-  * [Live program](https://www.easychair.org/smart-program/ISTVS2024/talk\_author\_index.html)
+  * [Live program](https://www.easychair.org/smart-program/ISTVS2024/)
 * [Registration](http://registration.istvs.org)
 * [Call for Papers](conference/call-for-papers.md)
 * [CFP Poster](cfp-poster.md)
