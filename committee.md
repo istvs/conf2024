@@ -21,6 +21,9 @@ coverY: 0
 **Shinichiro Miyai** | Komatsu Ltd., Japan :: _local arrangements_\
 **Takeshi Hashimoto** | Public Works Research Institute, Japan :: _local arrangements_
 
+**Massimo Martelli** | ISTVS General Secretary, Italy\
+**Jenna Dixon** | ISTVS digital operations, U.S.
+
 ## International Scientific Committee
 
 **Schalk Els** | University of Pretoria, South Africa\
