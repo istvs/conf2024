@@ -8,7 +8,7 @@ coverY: 0
 
 # Contact
 
-For all general inquiries with respect to the conference:
+For all general inquiries with respect to the conference or to request a formal letter of invitation:
 
 **Junya Yamakawa**\
 _Conference chair ::_ [_yamakawa@nda.ac.jp_](mailto:yamakawa@nda.ac.jp)\
