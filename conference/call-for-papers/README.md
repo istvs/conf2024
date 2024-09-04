@@ -2,7 +2,7 @@
 description: >-
   ISTVS2024 | 21st International and 12th Asia-Pacific Regional Conference of
   the ISTVS
-cover: ../.gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
+cover: ../../.gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
 ---
 
@@ -26,7 +26,7 @@ All accepted submissions of either abstract-only or full-paper type will be incl
 
 ## Key dates
 
-Key dates are listed [here](../#key-dates).
+Key dates are listed [here](../../#key-dates).
 
 ## Technical tracks
 
@@ -44,14 +44,14 @@ The conference includes the following thematic tracks:
 
 ## CFP poster
 
-You can view the Call for Papers poster [here](../cfp-poster.md).
+You can view the Call for Papers poster [here](cfp-poster.md).
 
 ## Submission platform
 
 As in previous years, the conference submission platform is [EasyChair](https://easychair.org/conferences/?conf=istvs2024). If you’ve participated in a recent ISTVS conference, you will be able to log in with your existing account. If you’re new to ISTVS conferences, use the _Create an account_ link on the login page to get started.\
 Access here: [https://easychair.org/conferences/?conf=istvs2024](https://easychair.org/conferences/?conf=istvs2024)
 
-<figure><img src="../.gitbook/assets/EasyChair_ISTVS2024.png" alt=""><figcaption><p>Login page for the ISTVS2024 submission platform</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/EasyChair_ISTVS2024.png" alt=""><figcaption><p>Login page for the ISTVS2024 submission platform</p></figcaption></figure>
 
 ## Submission guidelines
 
@@ -73,7 +73,7 @@ Submission is done directly on the [EasyChair](https://easychair.org/conferences
 
 Papers must be submitted in _Microsoft Word_ format and must **comply with the conference template**.
 
-{% file src="../.gitbook/assets/ISTVS2024_Paper_Template.zip" %}
+{% file src="../../.gitbook/assets/ISTVS2024_Paper_Template.zip" %}
 ISTVS2024 paper template
 {% endfile %}
 

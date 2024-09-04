@@ -1,4 +1,4 @@
-# Privacy
+# Privacy policy
 
 **Introduction**\
 Your privacy is critically important to us. This Privacy Policy outlines the types of information we collect and how it is used and shared.
@@ -24,4 +24,4 @@ We use cookies to enhance user experience and analyze site usage.
 You have the right to access, correct, or delete your personal data stored with us. You can opt-out of receiving our newsletter at any time by clicking the unsubscribe link at the bottom of our emails.
 
 **Contact Information**\
-For more information or if you have concerns, please reach us at gs@istvs.org or via [our contact page](contact.md).
+For more information or if you have concerns, please reach us at gs@istvs.org or via [our contact page](../conference/contact.md).

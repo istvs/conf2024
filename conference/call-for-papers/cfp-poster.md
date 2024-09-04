@@ -2,7 +2,7 @@
 description: >-
   ISTVS2024 | 21st International and 12th Asia-Pacific Regional Conference of
   the ISTVS
-cover: .gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
+cover: ../../.gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
 ---
 
@@ -20,4 +20,4 @@ Your help is deeply appreciated!
 
 
 
-<figure><img src=".gitbook/assets/ISTVS2024_CFP_POSTER_1545x2000.png" alt=""><figcaption><p>ISTVS2024 call for papers poster</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ISTVS2024_CFP_POSTER_1545x2000.png" alt=""><figcaption><p>ISTVS2024 call for papers poster</p></figcaption></figure>

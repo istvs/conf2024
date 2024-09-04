@@ -1,4 +1,4 @@
-# Terms and Conditions
+# Terms and conditions
 
 **Introduction**\
 Thank you for visiting the conference site for the 21st International and 12th Asia-Pacific Regional Conference of the ISTVS. The following terms govern the use of our e-commerce platform and services.
@@ -23,4 +23,4 @@ International Society for Terrain-Vehicle Systems shall not be liable for any da
 By visiting our platform, you agree that the laws of New Hampshire, U.S., without regard to principles of conflict of laws, will govern these Terms and Conditions.
 
 **Contact Us**\
-If you have any questions, please contact us via [our contact page](contact.md).
+If you have any questions, please contact us via [our contact page](../conference/contact.md).
