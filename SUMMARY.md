@@ -8,6 +8,7 @@
   * [Authors](conference/program/authors.md)
   * [Live program](https://www.easychair.org/smart-program/ISTVS2024/)
 * [Registration](http://registration.istvs.org)
+* [Sponsors](conference/sponsors.md)
 * [Call for Papers](conference/call-for-papers.md)
 * [CFP Poster](cfp-poster.md)
 * [Technical Tour](conference/technical-tour.md)
