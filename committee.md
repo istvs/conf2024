@@ -18,6 +18,8 @@ coverY: 0
 
 **Ryosuke Eto** | National Defense Academy, Japan :: _General secretary_
 
+**Kojiro Iizuka** | Shibaura Institute of Technology, Japan :: _paper award selection_
+
 **Shinichiro Miyai** | Komatsu Ltd., Japan :: _local arrangements_\
 **Takeshi Hashimoto** | Public Works Research Institute, Japan :: _local arrangements_
 
