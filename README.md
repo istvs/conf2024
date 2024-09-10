@@ -6,6 +6,10 @@ coverY: 0
 
 # ISTVS2024 | 21st International and 12th Asia-Pacific Regional Conference of the ISTVS
 
+{% hint style="info" %}
+Keynote Speaker | We are pleased to share that Mr. Naoki Sato will be giving the 2024 Keynote. Full details:&#x20;
+{% endhint %}
+
 {% hint style="success" %}
 We are pleased to announce the publication of 2024 Conference Program:\
 [https://www.easychair.org/smart-program/ISTVS2024/](https://www.easychair.org/smart-program/ISTVS2024/)
