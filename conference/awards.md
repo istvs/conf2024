@@ -24,30 +24,7 @@ This award was established in 2002 and honors exceptional research and/or indust
 
 The award recognizes the exceptional contributions of Dr. M. G. Bekker, Dr. A. R. Reece, and Professor N. W. Radforth to the field of terramechanics and to the ISTVS.
 
-**2021**\
-**Dr. Sally Shoop**\
-Cold Regions Research and Engineering Laboratory, Hanover, NH, USA
-
-**2014**\
-**Prof. Radhey Lal Kushwaha**\
-Professor Emeritus, University of Saskatchewan, Canada
-
-**2011**\
-**Dr. Anders Bodin**\
-Alvis Hägglunds AB, Sweden
-
-**2008**\
-**Yukio Nakajima**\
-Director of Engineering\
-Tire Research Department, Bridgestone Corp., Japan
-
-**2005**\
-**Mr. Robert D. Wismer**\
-Vice President, Deere & Company, USA
-
-**2002**\
-**Mr. Alfons Falk**\
-Haegglunds Vehicle AB, Sweden
+<table data-column-title-hidden data-view="cards"><thead><tr><th>Year</th><th>Name</th><th>Affiliation</th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>2021</td><td><strong>Dr. Sally Shoop</strong></td><td>Cold Regions Research and Engineering Laboratory, Hanover, NH, USA</td><td></td></tr><tr><td>2014</td><td><strong>Prof. Radhey Lal Kushwaha</strong></td><td>Professor Emeritus, University of Saskatchewan, Canada</td><td></td></tr><tr><td>2011</td><td><strong>Dr. Anders Bodin</strong></td><td>Alvis Hägglunds AB, Sweden</td><td></td></tr><tr><td>2008</td><td><strong>Yukio Nakajima</strong></td><td>Director of Engineering<br>Tire Research Department, Bridgestone Corp., Japan</td><td></td></tr><tr><td>2005</td><td><strong>Mr. Robert D. Wismer</strong></td><td>Vice President, Deere &#x26; Company, USA</td><td></td></tr><tr><td>2002</td><td><strong>Mr. Alfons Falk</strong></td><td>Haegglunds Vehicle AB, Sweden</td><td></td></tr></tbody></table>
 
 We thank Vehicle Systems Development Corporation, Toronto, Ontario, Canada, for sponsoring the award this year.
 
