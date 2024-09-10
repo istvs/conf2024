@@ -79,6 +79,18 @@ ISTVS2024 paper template
 
 The zip archive provided includes a **reference PDF**, in case the _Word_ document breaks when opened locally.
 
+### Presentation
+
+The following presentation template in _Microsoft PowerPoint_ format is provided for your convenience.
+
+{% file src="../../.gitbook/assets/ISTVS2024_Presentation_Template.pptx" %}
+ISTVS2024 presentation template
+{% endfile %}
+
+**IMPORTANT:** The use of this template is **NOT** mandatory.\
+If you choose to use your own template please maintain the **widescreen layout** and include **slide numbers**. We also recommend choosing a clean and clear layout.\
+Whenever possible, aim for visual consistency throughout your presentation.
+
 ### Poster
 
 A template and instructions for posters will be added to this page soon.
@@ -87,9 +99,7 @@ A template and instructions for posters will be added to this page soon.
 
 Additional author resources:
 
-* guidelines for review rebuttal
 * copyright assignment form
-* presentation template
 
 will be added to this page as well, so keep an eye on it for updates.
 
