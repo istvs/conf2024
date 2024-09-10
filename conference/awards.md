@@ -8,6 +8,8 @@ coverY: 0
 
 # Awards
 
+As part of the ISTVS mission to advance the knowledge of terrain-vehicle systems in engineering practice and innovation, ISTVS has awarded exceptional work with an awards program that includes St. Christopher’s Lectures and the Bekker-Reece-Radforth Awards.
+
 ## St. Christopher’s Lecture
 
 Since 1966, ISTVS has honored distinguished workers in the field of terrain-vehicle interaction by offering them the opportunity to deliver the St. Christopher Lecture at an international ISTVS conference, held every three years.
