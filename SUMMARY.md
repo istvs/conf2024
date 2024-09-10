@@ -10,6 +10,7 @@
 
 ## Conference
 
+* [Awards](conference/awards.md)
 * [Call for Papers](conference/call-for-papers/README.md)
   * [CFP Poster](conference/call-for-papers/cfp-poster.md)
 * [Registration](http://registration.istvs.org)
