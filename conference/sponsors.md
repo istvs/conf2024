@@ -39,4 +39,5 @@ _We actively welcome conference sponsors. Please contact_[ _yamakawa@nda.ac.jp_]
 
 </div>
 
-**KOMATSU LTD.** | Manufacture and sale of construction and mining equipment, utility equipment (compact machines), forest machines, industrial machinery and others.
+**KOMATSU LTD.** | Manufacture and sale of construction and mining equipment, utility equipment (compact machines), forest machines, industrial machinery and others.\
+[https://www.komatsu.jp/en](https://www.komatsu.jp/en)
