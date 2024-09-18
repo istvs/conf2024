@@ -10,11 +10,11 @@
 
 ## Conference
 
+* [Registration](conference/registration.md)
 * [Keynote](conference/keynote.md)
 * [Awards](conference/awards.md)
 * [Call for Papers](conference/call-for-papers/README.md)
   * [CFP Poster](conference/call-for-papers/cfp-poster.md)
-* [Registration](http://registration.istvs.org)
 * [Sponsors](conference/sponsors.md)
 * [Technical Tour](conference/technical-tour.md)
 * [Location and Travel](conference/location-and-travel.md)
