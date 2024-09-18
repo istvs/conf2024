@@ -26,4 +26,4 @@ ISTVS uses Stripe for simple and safe online payments. All prices are in ¥.
 
 The conference welcomes accompanying guests. If you are bringing guests, please use these links to purchase attendance at the opening and closing events.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/4icebreaker.jpg" alt=""></td><td><a href="https://buy.stripe.com/6oEdTRgQofvEaVW6or">Icebreaker Party</a> <br>opening event</td><td>¥8,000</td></tr><tr><td><img src="../.gitbook/assets/5banquet.jpg" alt=""></td><td><a href="https://buy.stripe.com/9AQeXVcA8dnw7JK148">Banquet</a><br>closing event</td><td>¥11,000</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/4icebreaker.jpg" alt=""></td><td><a href="https://buy.stripe.com/6oEdTRgQofvEaVW6or">Icebreaker Party</a> - Guest<br>opening event</td><td>¥8,000</td></tr><tr><td><img src="../.gitbook/assets/5banquet.jpg" alt=""></td><td><a href="https://buy.stripe.com/9AQeXVcA8dnw7JK148">Banquet</a> - Guest<br>closing event</td><td>¥11,000</td></tr></tbody></table>
