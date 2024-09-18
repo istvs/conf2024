@@ -1,7 +1,7 @@
 ---
 description: >-
-  21st International and 12th Asia-Pacific Regional Conference of the ISTVS |
-  ISTVS2024
+  ISTVS2024 | 21st International and 12th Asia-Pacific Regional Conference of
+  the ISTVS
 cover: ../.gitbook/assets/istvs_terrain.jpeg
 coverY: 0
 ---
