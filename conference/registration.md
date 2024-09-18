@@ -9,22 +9,17 @@ coverY: 0
 # Registration
 
 {% hint style="info" %}
-Use the payment links below to register for ISTVS2024. To register on behalf of multiple attendees, complete the registration process for each.&#x20;
+To register now online by credit card, use the registration choices below to choose the appropriate registration, then complete the checkout process on the payment page.
+
+To register on behalf of multiple attendees, complete the registration process for each.&#x20;
 
 To register as an ISTVS member, a current ISTVS member number required; check for status and number in ISTVS Member Portal: [istvs.org/members](https://www.istvs.org/members)
+
+ISTVS uses Stripe for simple and safe online payments. All prices are in EUR.
 {% endhint %}
 
-### Member registration
+### 🎟 [2024 Member Registration](https://buy.stripe.com/7sIdTRas0gzIe885kk)
 
-Payment link:\
-[https://buy.stripe.com/7sIdTRas0gzIe885kk](https://buy.stripe.com/7sIdTRas0gzIe885kk)
+### 🎟 [2024 Non-Member Registration](https://buy.stripe.com/28o3fdgQocjs4xy5kl)
 
-### Non-Member Registration
-
-Payment link:\
-[https://buy.stripe.com/28o3fdgQocjs4xy5kl](https://buy.stripe.com/28o3fdgQocjs4xy5kl)
-
-### Student Registration
-
-Payment link:\
-[https://buy.stripe.com/8wMbLJ9nW6Z85BCbIK](https://buy.stripe.com/8wMbLJ9nW6Z85BCbIK)
+### 🎟 [2024 Student Registration](https://buy.stripe.com/8wMbLJ9nW6Z85BCbIK)
