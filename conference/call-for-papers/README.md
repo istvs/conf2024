@@ -8,6 +8,27 @@ coverY: 0
 
 # Call for Papers
 
+{% hint style="info" %}
+#### Copyright Assignment Form <a href="#copyright-assignment-form" id="copyright-assignment-form"></a>
+
+Copyright assignment form is intended for original material submitted to conferences of the International Society for Terrain-Vehicle Systems (ISTVS) and must accompany any such material in order to be published by the ISTVS.&#x20;
+
+Before publication of your paper in conference proceedings, the ISTVS must receive a completed and signed copy of this form via the conference submission platform, EasyChair:
+
+[ISTVS Copyright Assignment Form\_2024v1.pdf](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FDSUIEqgaPlFzlCt7TKJP%2Fuploads%2F4JevVzklzazZoDaOCXEv%2FISTVS%20Copyright%20Assignment%20Form\_2024v1.pdf?alt=media\&token=776ba519-537f-46ab-8787-f34bbdb8eec0)
+
+\
+**Author action required:**\
+**Log in to EasyChair and click the icon on "View" column:**\
+[**https://easychair.org/conferences/?conf=istvs2024**](https://easychair.org/conferences/?conf=istvs2024)\
+**-> Click "Add or update files" on the upper left list.** \
+**-> Attach the file on "Submission of COPYRIGHT ASSIGNMENT"**\
+\
+_2024-10-03 UPDATE_
+{% endhint %}
+
+{% file src="../../.gitbook/assets/ISTVS Copyright Assignment Form_2024v1.pdf" %}
+
 _ISTVS2024_, the _21st International and 12th Asia-Pacific Regional Conference of the ISTVS_ welcomes original and previously unpublished research and review papers describing results of research which are relevant to the conference topics and to terrain-vehicle systems.
 
 * Authors wishing to make a submission are requested to submit an abstract by **March 15**, 2024.
