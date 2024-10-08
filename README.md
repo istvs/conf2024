@@ -102,6 +102,7 @@ _Conference co-chair ::_ [_ishigami@mech.keio.ac.jp_](mailto:ishigami@mech.keio.
 | **REGISTRATION**                                           |                                                      |
 | June 10, 2024                                              | Registration opens                                   |
 | <p>August 10, 2024<br><del>July 31, 2024</del></p>         | Early bird registration closes                       |
+| October 18, 2024                                           | Registration closes                                  |
 |                                                            |                                                      |
 | **PROGRAM**                                                |                                                      |
 | <p>July 10, 2024<br><del>July 1, 2024</del></p>            | Preliminary program published                        |
