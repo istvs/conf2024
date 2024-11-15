@@ -1,7 +1,5 @@
 ---
-description: >-
-  ISTVS2024 | 21st International and 12th Asia-Pacific Regional Conference of
-  the ISTVS
+description: ISTVS 2024 | October 28–31, 2024 | Yokohama, Japan
 cover: ../.gitbook/assets/istvs_terrain.jpeg
 coverY: 0
 ---

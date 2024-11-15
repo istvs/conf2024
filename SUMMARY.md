@@ -1,8 +1,8 @@
 # Table of contents
 
-* [ISTVS2024 | 21st International and 12th Asia-Pacific Regional Conference of the ISTVS](README.md)
+* [21st International and 12th Asia-Pacific Regional Conference of the ISTVS](README.md)
 
-## PROGRAM&#x20;
+## PROGRAM
 
 * [Overview](program/overview.md)
 * [Authors](program/authors.md)
@@ -12,7 +12,9 @@
 
 * [Registration](conference/registration.md)
 * [Keynote](conference/keynote.md)
-* [Awards](conference/awards.md)
+* [Awards](conference/awards/README.md)
+  * [St Christoper Lecture](conference/awards/st-christoper-lecture.md)
+  * [Bekker-Reece-Radforth Award](conference/awards/bekker-reece-radforth-award.md)
 * [Call for Papers](conference/call-for-papers/README.md)
   * [CFP Poster](conference/call-for-papers/cfp-poster.md)
 * [Sponsors](conference/sponsors.md)

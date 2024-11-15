@@ -1,10 +1,10 @@
 ---
-description: October 28–31, 2024 | Yokohama, Japan
+description: ISTVS 2024 | October 28–31, 2024 | Yokohama, Japan
 cover: .gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
 ---
 
-# ISTVS2024 | 21st International and 12th Asia-Pacific Regional Conference of the ISTVS
+# 21st International and 12th Asia-Pacific Regional Conference of the ISTVS
 
 {% hint style="info" %}
 **Keynote announced**\
