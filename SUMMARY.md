@@ -32,6 +32,7 @@
   * [0356 alt2](submissions/papers/0356-alt2.md)
   * [Hammering Energy Requirements For Surveying Lunar Surface With Dynamic Cone Penetrometers And Seismic Methods alt 3](submissions/papers/hammering-energy-requirements-for-surveying-lunar-surface-with-dynamic-cone-penetrometers-and-seis-1.md)
   * [Hammering Energy Requirements For Surveying Lunar Surface With Dynamic Cone Penetrometers And Seismic Methods alt4](submissions/papers/hammering-energy-requirements-for-surveying-lunar-surface-with-dynamic-cone-penetrometers-and-seis-2.md)
+  * [0356 / Hammering Energy Requirements For Surveying Lunar Surface With Dynamic Cone Penetrometers And Seismic Methods](submissions/papers/0356-hammering-energy-requirements-for-surveying-lunar-surface-with-dynamic-cone-penetrometers-and-s.md)
 * [Abstracts-only](submissions/abstracts-only.md)
 
 ## POLICIES
