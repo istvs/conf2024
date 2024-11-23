@@ -23,11 +23,16 @@
 * [Committee](committee.md)
 * [Contact](conference/contact.md)
 
+## Submissions
+
+* [Papers](submissions/papers.md)
+* [Abstracts-only](submissions/abstracts-only.md)
+
 ## POLICIES
 
 * [Terms and conditions](policies/terms-and-conditions.md)
 * [Privacy policy](policies/privacy-policy.md)
-* [Notation based on the Specified Commercial Transactions Law](policies/conditions\_of\_use.md)
+* [Notation based on the Specified Commercial Transactions Law](policies/conditions_of_use.md)
 
 ## Society <a href="#links" id="links"></a>
 
