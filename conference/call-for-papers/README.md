@@ -13,7 +13,7 @@ Copyright assignment form is intended for original material submitted to confere
 
 Before publication of your paper in conference proceedings, the ISTVS must receive a completed and signed copy of this form via the conference submission platform, EasyChair:
 
-[ISTVS Copyright Assignment Form\_2024v1.pdf](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FDSUIEqgaPlFzlCt7TKJP%2Fuploads%2F4JevVzklzazZoDaOCXEv%2FISTVS%20Copyright%20Assignment%20Form\_2024v1.pdf?alt=media\&token=776ba519-537f-46ab-8787-f34bbdb8eec0)
+[ISTVS Copyright Assignment Form\_2024v1.pdf](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FDSUIEqgaPlFzlCt7TKJP%2Fuploads%2F4JevVzklzazZoDaOCXEv%2FISTVS%20Copyright%20Assignment%20Form_2024v1.pdf?alt=media\&token=776ba519-537f-46ab-8787-f34bbdb8eec0)
 
 \
 **Author action required:**\
@@ -22,7 +22,7 @@ Before publication of your paper in conference proceedings, the ISTVS must recei
 **-> Click "Add or update files" on the upper left list.** \
 **-> Attach the file on "Submission of COPYRIGHT ASSIGNMENT"**\
 \
-_2024-10-03 UPDATE_
+&#xNAN;_&#x32;024-10-03 UPDATE_
 {% endhint %}
 
 {% file src="../../.gitbook/assets/ISTVS Copyright Assignment Form_2024v1.pdf" %}

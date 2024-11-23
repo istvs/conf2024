@@ -25,7 +25,10 @@
 
 ## Submissions
 
-* [Papers](submissions/papers.md)
+* [Papers](submissions/papers/README.md)
+  * [Hammering Energy Requirements For Surveying Lunar Surface With Dynamic Cone Penetrometers And Seismic Methods.](submissions/papers/hammering-energy-requirements-for-surveying-lunar-surface-with-dynamic-cone-penetrometers-and-seismi.md)
+  * [Evaluation Of Grouser Wheel Traction Performance At High-Speed By Single-Wheel Test](submissions/papers/evaluation-of-grouser-wheel-traction-performance-at-high-speed-by-single-wheel-test.md)
+  * [Experimental Investigation Of Increased Bearing Capacity When Imparting Vibration To Loose Ground In Low Atmospheric Pressure](submissions/papers/experimental-investigation-of-increased-bearing-capacity-when-imparting-vibration-to-loose-ground-in.md)
 * [Abstracts-only](submissions/abstracts-only.md)
 
 ## POLICIES

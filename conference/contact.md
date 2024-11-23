@@ -9,5 +9,5 @@ coverY: 0
 For all general inquiries with respect to the conference or to request a formal letter of invitation:
 
 **Junya Yamakawa**\
-_Conference chair ::_ [_yamakawa@nda.ac.jp_](mailto:yamakawa@nda.ac.jp)\
+&#xNAN;_&#x43;onference chair ::_ [_yamakawa@nda.ac.jp_](mailto:yamakawa@nda.ac.jp)\
 [Automotive Engineering Laboratory | National Defense Academy](https://www.mod.go.jp/nda/english/)

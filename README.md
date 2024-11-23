@@ -9,7 +9,7 @@ coverY: 0
 {% hint style="info" %}
 **Keynote announced**\
 We are pleased to share that Mr. Naoki Sato of JAXA will keynote:\
-_Pressurized Rover as the Japanese Contribution to Artemis Program_\
+&#xNAN;_&#x50;ressurized Rover as the Japanese Contribution to Artemis Program_\
 Full details: [https://2024.istvs.org/conference/keynote](https://2024.istvs.org/conference/keynote)
 {% endhint %}
 
@@ -25,19 +25,7 @@ The conference is an opportunity to present and disseminate the latest scientifi
 
 Both representatives of science in the field of mechanical engineering, vehicles and machines, mechatronics and automation, soil science, agriculture and environmental engineering, as well as professionals from industry, business environment and government agencies for whom the issues discussed at the conference are an important merit are invited to participate. The organizers also count on the participation of students from under- and postgraduate courses.
 
-<div>
-
-<figure><img src=".gitbook/assets/4WD_test.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/road_roller.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/crawler_drone.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src=".gitbook/assets/4WD_test.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/road_roller.jpg" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/crawler_drone.jpg" alt=""><figcaption></figcaption></figure></div>
 
 The intention of the organizers is to create a friendly atmosphere and comfortable conditions for holding plenary sessions. The conference includes the following thematic tracks:
 
@@ -52,26 +40,18 @@ The intention of the organizers is to create a friendly atmosphere and comfortab
 * metrology in terramechanics
 
 **Prof. Junya Yamakawa**\
-_Conference chair ::_ [_yamakawa@nda.ac.jp_](mailto:yamakawa@nda.ac.jp)\
+&#xNAN;_&#x43;onference chair ::_ [_yamakawa@nda.ac.jp_](mailto:yamakawa@nda.ac.jp)\
 [Automotive Engineering Laboratory | National Defense Academy](http://www.nda.ac.jp/cc/mech/en/automotive-engineering.html#faculty)
 
 **Prof. Taizo Kobayashi**\
-_Conference co-chair ::_ [_kobat@fc.ritsumei.ac.jp_](mailto:kobat@fc.ritsumei.ac.jp)\
+&#xNAN;_&#x43;onference co-chair ::_ [_kobat@fc.ritsumei.ac.jp_](mailto:kobat@fc.ritsumei.ac.jp)\
 [Dept. of Civil and Environmental Engineering | Ritsumeikan University](https://en.ritsumei.ac.jp/gsse/academics/researchers/article.html/?id=86)
 
 **Prof. Genya Ishigami**\
-_Conference co-chair ::_ [_ishigami@mech.keio.ac.jp_](mailto:ishigami@mech.keio.ac.jp)\
+&#xNAN;_&#x43;onference co-chair ::_ [_ishigami@mech.keio.ac.jp_](mailto:ishigami@mech.keio.ac.jp)\
 [Keio University](http://www.srg.mech.keio.ac.jp)
 
-<div>
-
-<figure><img src=".gitbook/assets/excavator.jpeg" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/wheel_test.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src=".gitbook/assets/excavator.jpeg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/wheel_test.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 
