@@ -76,7 +76,7 @@
   * [9295 / Granular Scaling Laws For Accurate Prediction Of Wheel Mobility On Slopes In Low-Gravity Environments](submissions/papers/9295.md)
   * [9663 / Year-Round Measurements Of The Soil Cone Index On Grass Airfields For Ground Performance Of Airplane](submissions/papers/9663.md)
   * [9747 / Application Of A Rockie Bogie Suspension For A New Type Of Sugar Cane Transport System](submissions/papers/9747.md)
-* [Abstracts-only](submissions/abstracts-only.md)
+* [Abstracts-only](submissions/abstract-only.md)
 
 ## POLICIES
 
