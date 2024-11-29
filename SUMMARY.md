@@ -20,7 +20,7 @@
 * [Sponsors](conference/sponsors.md)
 * [Technical Tour](conference/technical-tour.md)
 * [Location and Travel](conference/location-and-travel.md)
-* [Committee](committee.md)
+* [Committee](conference/committee.md)
 * [Contact](conference/contact.md)
 
 ## Submissions
