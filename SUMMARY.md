@@ -27,6 +27,7 @@
 
 * [Papers](submissions/papers/README.md)
   * [0356 / Hammering Energy Requirements For Surveying Lunar Surface With Dynamic Cone Penetrometers And Seismic Methods](submissions/papers/0356-hammering-energy-requirements-for-surveying-lunar-surface-with-dynamic-cone-penetrometers-and-s.md)
+  * [0412 / Evaluation Of Grouser Wheel Traction Performance At High-Speed By Single-Wheel Test](submissions/papers/0412.md)
 * [Abstracts-only](submissions/abstracts-only.md)
 
 ## POLICIES
