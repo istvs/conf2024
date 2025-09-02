@@ -21,6 +21,7 @@
 * [Technical Tour](conference/technical-tour.md)
 * [Location and Travel](conference/location-and-travel.md)
 * [Committee](conference/committee.md)
+* [Statement on Publication Ethics and Malpractice](conference/statement-on-publication-ethics-and-malpractice.md)
 * [Contact](conference/contact.md)
 
 ## Submissions
@@ -77,6 +78,11 @@
   * [9663 / Year-Round Measurements Of The Soil Cone Index On Grass Airfields For Ground Performance Of Airplane](submissions/papers/9663.md)
   * [9747 / Application Of A Rockie Bogie Suspension For A New Type Of Sugar Cane Transport System](submissions/papers/9747.md)
 * [Abstract-only](submissions/abstract-only.md)
+
+## Proceedings
+
+* [Editorial Board](proceedings/editorial-board.md)
+* [Book of Proceedings](proceedings/book-of-proceedings.md)
 
 ## PHOTOS
 
